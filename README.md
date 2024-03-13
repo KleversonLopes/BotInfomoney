@@ -1,5 +1,6 @@
-Linguagem: Python
-Framework: BotCity
+Linguagem: Python.
+
+Framework: BotCity.
 
 Objetivo:
 Extrair dados do site infomoney, consultar as ações no google finance, gravar em uma planilha os resultados e enviar por e-mail.
